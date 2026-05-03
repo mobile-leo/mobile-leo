@@ -52,7 +52,7 @@
 
 <p align="center">
   <a href="https://github.com/mobile-leo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mobile-leo&repo=SEU_REPO_1&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mobile-leo&repo=moviehub-flutter&theme=tokyonight" />
   </a>
   <a href="https://github.com/mobile-leo">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mobile-leo&repo=SEU_REPO_2&theme=tokyonight" />
