@@ -1,15 +1,16 @@
 <h1 align="center">Leonardo Santos 👋</h1>
 
 <p align="center">
-  Desenvolvedor Mobile & Full Stack focado em criar aplicações modernas, escaláveis e performáticas. <br/>
-  Experiência com projetos reais publicados, integrações complexas e soluções sob medida para negócios.
+  🚀 Mobile & Full Stack Developer <br/>
+  📱 Apps published on Google Play with real users <br/>
+  ⚡ Focused on performance, clean architecture and great user experience
 </p>
 
 ---
 
-## 🚀 Stack Principal
+## 🚀 Main Stack
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -25,21 +26,21 @@
 
 ---
 
-## 💼 Sobre mim
+## 💼 About Me
 
-- 📱 Desenvolvimento de aplicativos mobile (Flutter & React Native)
-- 🌐 Desenvolvimento web moderno com React, Next.js e Node.js
-- ⚡ Foco em performance, arquitetura limpa e experiência do usuário
-- 🔗 Integração com APIs REST, pagamentos e sistemas externos
-- 🚀 Experiência com publicação de apps nas lojas (Google Play)
+* 📱 Mobile app development (Flutter & React Native)
+* 🌐 Modern web development with React, Next.js and Node.js
+* ⚡ Focus on performance, clean architecture and UX
+* 🔗 Experience integrating REST APIs, payments and external systems
+* 🚀 Published apps on Google Play with real users
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mobile-leo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobile-leo&layout=compact&langs_count=8&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mobile-leo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mobile-leo&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -48,35 +49,35 @@
 
 ---
 
-## 📌 Projetos em Destaque
+## 📌 Featured Projects
 
 <p align="center">
   <a href="https://github.com/mobile-leo/moviehub-flutter">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mobile-leo&repo=moviehub-flutter&theme=tokyonight" />
   </a>
-  <a href="https://github.com/mobile-leo">
-    <img src="https:/github-readme-stats-sigma-five.vercel.app/api/pin/?username=mobile-leo&repo=no-prazo-showcase&theme=tokyonight" />
+  <a href="https://github.com/mobile-leo/no-prazo-showcase">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mobile-leo&repo=no-prazo-showcase&theme=tokyonight" />
   </a>
 </p>
 
 ---
 
-## 📬 Contato
+## 📬 Contact
 
-<p align="left">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+<p align="center">
+  <a href="https://linkedin.com/in/mobile-leo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU_EMAIL@gmail.com">
+  <a href="mailto:leosnts17@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://SEU_PORTFOLIO.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://github.com/mobile-leo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mobile-leo&color=blue&style=flat-square&label=Visualizações+do+perfil" />
+  <img src="https://komarev.com/ghpvc/?username=mobile-leo&color=blue&style=flat-square&label=Profile+Views" />
 </p>
